@@ -1,0 +1,170 @@
+Column1,ChatLogID,UserType,AuthorName,AgentID,MessageText,SentDate
+4435261,621523,agent,Jayesh,jnair@edmundoptics.in,Welcome to Edmund Optics Live Chat!,3/2/2025 2:00
+4435262,621523,agent,Jayesh,jnair@edmundoptics.in,"Sorry currently our Chinese speaking Engineers are unavailable on chat, May I assist you in English?",3/2/2025 2:02
+4435263,621522,agent,Jayesh,jnair@edmundoptics.in,Thank you for contacting Edmund Optics. How may I help you?,3/2/2025 1:59
+4435264,621522,visitor,ZHIYU DENG,,hello,3/2/2025 1:59
+4435265,621522,visitor,ZHIYU DENG,,"I want to choose a lens that meets the requirement.
+1. fixed working distance
+2. variable magnification from 5X to 10X",3/2/2025 2:00
+4435266,621522,visitor,ZHIYU DENG,,mounting on a camera,3/2/2025 2:00
+4435267,621522,agent,Jayesh,jnair@edmundoptics.in,Mat I check the camera lens mount and camera sensor format for which you are looking zoom lens for,3/2/2025 2:01
+4435268,621522,visitor,ZHIYU DENG,,"thanks. the magnification does not exactly need to be 5X to 10X, other variable mag is also ok, for example, 4X to 8X",3/2/2025 2:03
+4435269,621522,agent,Jayesh,jnair@edmundoptics.in,We would need to know the lens mount of your camera and the sensor format of the camera you are using.,3/2/2025 2:05
+4435270,621522,visitor,ZHIYU DENG,,C mount,3/2/2025 2:06
+4435271,621522,visitor,ZHIYU DENG,,sensor format: 2448*2048,3/2/2025 2:06
+4435272,621522,agent,Jayesh,jnair@edmundoptics.in,"The data provided is the camera horizontal and vertical number of pixels, we would need to know the sensor format. Could you share the camera model you are using",3/2/2025 2:10
+4435273,621522,agent,Jayesh,jnair@edmundoptics.in,"You can have a check on this Zoom lens that supports a maximum sensor format of 2/3"" https://www.edmundoptics.com/p/vzmtrade-1000-zoom-imaging-lens/11170/",3/2/2025 2:16
+4435274,621522,visitor,ZHIYU DENG,,thank you. I will have a look,3/2/2025 2:18
+4435275,621524,agent,Jayesh,jnair@edmundoptics.in,Welcome to Edmund Optics Live Chat!,3/2/2025 2:09
+4435276,621524,visitor,GONG,,Please help me find the component model,3/2/2025 2:10
+4435277,621524,agent,Jayesh,jnair@edmundoptics.in,Please do let us know your concern,3/2/2025 2:10
+4435278,621524,visitor,GONG,,"I need a ring UV-A LED array, 365 nm, 120 mW/ star, ring arrangement (diameter 20 mm), divergence Angle ±5°",3/2/2025 2:10
+4435279,621524,visitor,GONG,,Are there accessories that meet my needs,3/2/2025 2:11
+4435280,621524,agent,Jayesh,jnair@edmundoptics.in,We do carry some UV ring light as shortlisted below https://www.edmundoptics.com/p/50mm-uv365nm-microbrite-brightfield-ring-light/45541/,3/2/2025 2:12
+4435281,621524,agent,Jayesh,jnair@edmundoptics.in,https://www.edmundoptics.com/p/100mm-uv365nm-microbrite-brightfield-ring-light/45547/,3/2/2025 2:12
+4435282,621524,visitor,GONG,,I see,3/2/2025 2:12
+4435283,621524,visitor,GONG,,Don't you have anything smaller?,3/2/2025 2:14
+4435284,621524,visitor,GONG,,"Then I need a collimating lens, aspherical size, f=15 mm, NA=0.3, plated with 250-400 nm anti-reflection film",3/2/2025 2:17
+4435285,621524,agent,Jayesh,jnair@edmundoptics.in,Sorry we do not carry a smaller ring light LED. For the aspheric lens may I check the diameter required,3/2/2025 2:19
+4435286,621524,visitor,GONG,,The diameter of the lens is matched to the ring LED,3/2/2025 2:20
+4435287,621524,agent,Jayesh,jnair@edmundoptics.in,"The outer diameter of the smallest UV ring light that we carry is 93.5mm, you can have a check on the 100mm diameter aspheric lens that we carry, unfortunately we do not carry a 15mm focal length 100mm diameter aspheric lens",3/2/2025 2:24
+4435288,621524,visitor,GONG,,ok,3/2/2025 2:25
+4435289,621524,agent,Jayesh,jnair@edmundoptics.in,Also these large aspheric lens do not seem to be suitable to be used in the 250-379 nm wavelength range https://www.edmundoptics.com/p/100mm-dia-063-numerical-aperture-uncoated-aspheric-lens/43437/,3/2/2025 2:25
+4435290,621524,visitor,GONG,,"I need a long pass dichroic mirror, reflection >95%@365 nm, transmission >90%@500-700 nm, diameter 25 mm, 45° incidence",3/2/2025 2:26
+4435291,621524,agent,Jayesh,jnair@edmundoptics.in,Hold on,3/2/2025 2:27
+4435292,621524,visitor,GONG,,ok,3/2/2025 2:30
+4435293,621524,agent,Jayesh,jnair@edmundoptics.in,You can have a check on this dichroic longpass filter https://www.edmundoptics.com/p/400nm-25mm-diameter-dichroic-longpass-filter/24152/,3/2/2025 2:30
+4435294,621524,visitor,GONG,,that's ok,3/2/2025 2:33
+4435295,621524,visitor,GONG,,"Is there a photodiode (PD), UV-enhanced, response 200-1100 nm,",3/2/2025 2:34
+4435296,621524,agent,Jayesh,jnair@edmundoptics.in,"Please find the UV Enhanced Response, 15mm2, Silicon Detector that we carry shortlisted below https://www.edmundoptics.com/p/uv-enhanced-response-15mmsup2sup-silicon-detector/14348/",3/2/2025 2:38
+4435297,621524,agent,Jayesh,jnair@edmundoptics.in,We carry few other options with larger active area too,3/2/2025 2:38
+4435298,621524,visitor,GONG,,Let me see,3/2/2025 2:39
+4435299,621524,visitor,GONG,,that's ok,3/2/2025 2:41
+4435300,621524,agent,Jayesh,jnair@edmundoptics.in,Is there anything else I can help you with?,3/2/2025 2:41
+4435301,621524,visitor,GONG,,"Is there a PD signal conditioning module, which matches the PD just now",3/2/2025 2:42
+4435302,621524,agent,Jayesh,jnair@edmundoptics.in,Sorry we do not offer signal conditioning module,3/2/2025 2:45
+4435303,621524,visitor,GONG,,ok,3/2/2025 2:45
+4435304,621524,visitor,GONG,,"I need a scientific CCD camera, 2448 x 2048 pixels; One telecentric objective, object square telecentric, 0.1X, working distance 85 mm; One bandpass filter, 540/40 nm, OD6@365 nm, diameter 25 mm",3/2/2025 2:46
+4435305,621524,agent,Jayesh,jnair@edmundoptics.in,Please do note that we do not currently offer scientific CCD cameras. For telecentric lens you can have a check on these options  https://www.edmundoptics.com/p/0151x-118-c-mount-titantltrade-telecentric-lens/3431/    https://www.edmundoptics.com/p/009x-half-inch-goldtl-telecentric-lens/15171/   https://www.edmundoptics.com/p/0125x-23inch-goldtl-telecentric-lens/12183/,3/2/2025 2:54
+4435306,621524,agent,Jayesh,jnair@edmundoptics.in,For Bandpass filters you can consider these options https://www.edmundoptics.com/p/543nm-cwl-25mm-dia-22nm-bandwidth-od-6-fluorescence-filter/21572/,3/2/2025 2:56
+4435307,621524,agent,Jayesh,jnair@edmundoptics.in,https://www.edmundoptics.com/p/550nm-cwl-25mm-dia-hard-coated-od-4-50nm-bandpass-filter/27853/,3/2/2025 2:56
+4435308,621524,visitor,GONG,,let me see,3/2/2025 2:57
+4435309,621524,agent,Jayesh,jnair@edmundoptics.in,Sure,3/2/2025 2:58
+4435310,621524,agent,Jayesh,jnair@edmundoptics.in,For 540nm bandpass filter you can have a check on this 50nm bandwidth filter too https://www.edmundoptics.com/p/540nm-cwl-25mm-dia-50nm-bandwidth-od-6-fluorescence-filter/28791/,3/2/2025 3:03
+4435311,621524,visitor,GONG,,I don't need anything else for now. I'll look into it myself,3/2/2025 3:10
+4435312,621524,agent,Jayesh,jnair@edmundoptics.in,"Sure, Is there anything else I can help you with?",3/2/2025 3:11
+4435313,621524,visitor,GONG,,"no,thanks",3/2/2025 3:18
+4435314,621524,agent,Jayesh,jnair@edmundoptics.in,"If you have any further questions, please don't hesitate to chat with us again! Our Applications Engineers are available over LiveChat 24/7.
+
+Thank you for contacting Edmund Optics!",3/2/2025 3:18
+4435315,621524,visitor,GONG,,ok,3/2/2025 3:18
+4435316,621526,agent,Jayesh,jnair@edmundoptics.in,Thank you for contacting Edmund Optics. How may I help you?,3/2/2025 7:28
+4435317,621526,visitor,Kam,,How do I get calibration Certificates and Data for product #56-078,3/2/2025 7:29
+4435318,621526,agent,Jayesh,jnair@edmundoptics.in,"Please do note that 56-078 is not a calibrated version, the calibrated version that we offer is #13-513 https://www.edmundoptics.com/p/certified-set-of-4-spectralonr-white-and-grayscale-diffuse-reflectance-standards-99-75-50-and-2/41587/",3/2/2025 7:30
+4435319,621526,agent,Jayesh,jnair@edmundoptics.in,The calibration certificate and data will be provided with the product.,3/2/2025 7:31
+4435320,621526,visitor,Kam,,Thank you.  That is what I needed.  Good bye.,3/2/2025 7:31
+4435321,621526,agent,Jayesh,jnair@edmundoptics.in,"You are welcome, If you have any further questions, please don't hesitate to chat with us again! Our Applications Engineers are available over LiveChat 24/7.
+
+Thank you for contacting Edmund Optics!",3/2/2025 7:31
+4435322,621527,agent,Pravin,pabraham@edmundoptics.in,Thank you for contacting Edmund Optics. How may I help you?,3/2/2025 16:50
+4435323,621527,visitor,Tessa,,"Hello, I purchased ""Everix Ultra-Thin Narrow Bandpass Filter, 400nm, 12.5mm Dia., 10nm FWHM"" awhile ago for a project. I was wondering if you guys happened to sell a mount for it as it is quite difficult to work with for our purposes unmounted?",3/2/2025 16:51
+4435324,621527,agent,Pravin,pabraham@edmundoptics.in,one moment please,3/2/2025 16:51
+4435325,621527,visitor,Tessa,,"All good, take your time",3/2/2025 16:51
+4435326,621527,agent,Pravin,pabraham@edmundoptics.in,https://www.edmundoptics.com/c/benchtop-optical-mounts/645/#27970=27970_s%3ACircular&28384=28384_s%3A%5B12.50%20TO%2012.50%5D&Categories=Categories%3A1269,3/2/2025 16:55
+4435327,621527,agent,Pravin,pabraham@edmundoptics.in,https://www.edmundoptics.com/p/127mm-mounting-cell/13686/,3/2/2025 16:56
+4435328,621527,agent,Pravin,pabraham@edmundoptics.in,There is no exact mount to recommend and i think stock 56759 could be the closest.,3/2/2025 16:57
+4435329,621527,visitor,Tessa,,Okay totally fair. I appreciate your help!,3/2/2025 16:57
+4435330,621528,agent,Pravin,pabraham@edmundoptics.in,Thank you for contacting Edmund Optics. How may I help you?,3/2/2025 17:50
+4435331,621528,agent,Pravin,pabraham@edmundoptics.in,Hi How can i help you?,3/2/2025 17:55
+4435332,621528,visitor,David Zink,,"Hello, I’m taking photos with flash lighting and need a polarization filter for the lamps. The lamps fire several times per minute, and the polarizing filter foil gets very hot. I think there might be thicker or more heat-resistant options available. Could you recommend a durable solution? The main goal is to reduce light reflections in the images.
+
+Thanks!",3/2/2025 17:56
+4435333,621528,agent,Pravin,pabraham@edmundoptics.in,I would recommend you to go with glass polarizers,3/2/2025 17:57
+4435334,621528,agent,Pravin,pabraham@edmundoptics.in,May I know the size?,3/2/2025 17:57
+4435335,621528,agent,Pravin,pabraham@edmundoptics.in,https://www.edmundoptics.eu/f/high-contrast-glass-linear-polarizers/12725/,3/2/2025 17:59
+4435336,621528,agent,Pravin,pabraham@edmundoptics.in,https://www.edmundoptics.eu/f/linear-glass-polarizing-filters/11758/,3/2/2025 17:59
+4435337,621528,agent,Pravin,pabraham@edmundoptics.in,https://www.edmundoptics.eu/c/absorptive-dichroic-polarizers/1336/#27766=27766_s%3AFused%2BSilica&27766=27766_s%3AFused%2BSilica%2B(Corning%2B7980)&27766=27766_s%3ASoda%2BLime%2BFloat%2BGlass&27766=27766_s%3AXP42%2BLaminated%2BBetween%2BGlass,3/2/2025 18:01
+4435338,621528,agent,Pravin,pabraham@edmundoptics.in,Please refer the links.,3/2/2025 18:01
+4435339,621528,visitor,David Zink,,sorry,3/2/2025 18:06
+4435340,621528,visitor,David Zink,,around 30cmx30cm,3/2/2025 18:06
+4435341,621528,visitor,David Zink,,for lamp,3/2/2025 18:06
+4435342,621528,agent,Pravin,pabraham@edmundoptics.in,https://www.edmundoptics.eu/f/high-temperature-linear-polarizing-film-xp40ht/39625/,3/2/2025 18:07
+4435343,621528,agent,Pravin,pabraham@edmundoptics.in,Stock 29473 could be the closest.,3/2/2025 18:08
+4435344,621528,visitor,David Zink,,thanks,3/2/2025 18:09
+4435345,621528,agent,Pravin,pabraham@edmundoptics.in,you are welcome,3/2/2025 18:09
+4435346,621529,agent,Pravin,pabraham@edmundoptics.in,Thank you for contacting Edmund Optics. How may I help you?,3/2/2025 20:11
+4435347,621529,visitor,Carlos Sherwood,,"Hi, Pravin. I'd like to get a recommendation on a Gig-E Baser area scan camera which uses rolling shutter for a automated enforcement system.",3/2/2025 20:13
+4435348,621529,visitor,Carlos Sherwood,,*an,3/2/2025 20:13
+4435349,621529,agent,Pravin,pabraham@edmundoptics.in,"Hi Carlos, one moment please",3/2/2025 20:14
+4435350,621529,agent,Pravin,pabraham@edmundoptics.in,https://www.edmundoptics.com/c/cameras/1012/#28492=28492_s%3AGigE%2B(PoE)&1=Inventory1000_s%3Ainstock&29401=29401_s%3ABasler&28490=28490_s%3ARolling,3/2/2025 20:15
+4435351,621529,agent,Pravin,pabraham@edmundoptics.in,Please refer the link for the closest options we carry,3/2/2025 20:15
+4435352,621529,visitor,Carlos Sherwood,,Thanks,3/2/2025 20:16
+4435353,621529,agent,Pravin,pabraham@edmundoptics.in,You are welcome.,3/2/2025 20:16
+4435354,621531,agent,Pravin,pabraham@edmundoptics.in,Thank you for contacting Edmund Optics. How may I help you?,3/2/2025 23:25
+4435355,621531,visitor,Leo,,"Hi! I am looking at the product:Hamamatsu H11890-110 | 8mm, 230-700nm, Photon Counting USB PMT Module",3/2/2025 23:26
+4435356,621531,visitor,Leo,,"I wonder if I were to purchase this one, do I still need any other photo counting circuit/unit?",3/2/2025 23:27
+4435357,621531,agent,Pravin,pabraham@edmundoptics.in,May I know the part number please?,3/2/2025 23:27
+4435358,621531,visitor,Leo,,#14-798,3/2/2025 23:27
+4435359,621531,agent,Pravin,pabraham@edmundoptics.in,one moment please,3/2/2025 23:30
+4435360,621531,agent,Pravin,pabraham@edmundoptics.in,I dont see any accessories recommended for it.,3/2/2025 23:33
+4435361,621531,agent,Pravin,pabraham@edmundoptics.in,There will be a driver included withing this part.,3/2/2025 23:33
+4435362,621531,visitor,Leo,,Do you have a manual and/or software online that I can download and take a look?,3/2/2025 23:34
+4435363,621531,visitor,Leo,,This is the spec which I have already read. I wonder if you have a manual or software?,3/2/2025 23:35
+4435364,621531,agent,Pravin,pabraham@edmundoptics.in,"hold on, im checking",3/2/2025 23:35
+4435365,621531,agent,Pravin,pabraham@edmundoptics.in,Please refer the file.,3/2/2025 23:37
+4435366,621531,agent,Pravin,pabraham@edmundoptics.in,Is there anything else I can help you with?,3/2/2025 23:37
+4435367,621531,visitor,Leo,,Cool! I wonder what would be the return policy for this one?,3/2/2025 23:37
+4435368,621531,agent,Pravin,pabraham@edmundoptics.in,"For return policy, could you please drop an email to our regional tech team?",3/2/2025 23:38
+4435369,621531,agent,Pravin,pabraham@edmundoptics.in,techsup@edmundoptics.com,3/2/2025 23:38
+4435370,621531,agent,Pravin,pabraham@edmundoptics.in,"I am not able to advise this, since these parts are listed for Americas right now.",3/2/2025 23:38
+4435371,621531,visitor,Leo,,Sure,3/2/2025 23:39
+4435372,621531,agent,Pravin,pabraham@edmundoptics.in,Thank you,3/2/2025 23:39
+4435373,621531,visitor,Leo,,Do you have the software for this unit?,3/2/2025 23:40
+4435374,621531,visitor,Leo,,It looks like we need to install a PC software to operate this module. I wonder where I can find the software? I like to try it out on my laptop and see if it is compatible with our application,3/2/2025 23:41
+4435375,621531,agent,Pravin,pabraham@edmundoptics.in,"I think, it comes with the package. Unfortunately, we dont have this at the moment.",3/2/2025 23:42
+4435376,621531,agent,Pravin,pabraham@edmundoptics.in,You may check with our team. Please share us the laptop specs.,3/2/2025 23:42
+4435377,621531,visitor,Leo,,Is it a CD that stores the software on it?,3/2/2025 23:42
+4435378,621531,agent,Pravin,pabraham@edmundoptics.in,Yes,3/2/2025 23:42
+4435379,621531,visitor,Leo,,It's a windows 11 home PC,3/2/2025 23:43
+4435380,621531,agent,Pravin,pabraham@edmundoptics.in,"I think, it would be compatible. But you can check with regional tech team also.",3/2/2025 23:44
+4435381,621531,visitor,Leo,,"I am currently in los angeles , US. Should I reach out to the local team through this email: techsup@edmundoptics.com ?",3/2/2025 23:45
+4435382,621531,agent,Pravin,pabraham@edmundoptics.in,"Yes, correct.",3/2/2025 23:45
+4435383,621531,visitor,Leo,,Sounds good. Thanks!,3/2/2025 23:46
+4435384,621531,agent,Pravin,pabraham@edmundoptics.in,You are welcome,3/2/2025 23:46
+4435385,621531,agent,Pravin,pabraham@edmundoptics.in,"If you have any further questions, please don't hesitate to chat with us again! Our Applications Engineers are available over LiveChat 24/7.
+
+Thank you for contacting Edmund Optics!",3/2/2025 23:46
+4435386,621530,agent,Pravin,pabraham@edmundoptics.in,Thank you for contacting Edmund Optics. How may I help you?,3/2/2025 23:21
+4435387,621530,visitor,Kenneth,,Hello I have a question about your lenes,3/2/2025 23:22
+4435388,621530,visitor,Kenneth,,I have a question I need a replacement lenses for my digital night vision that is near IR because it uses IR flood to see in the dark that has a good AR coating between 650 to 950 nm however I don’t see a list of lens and it needs to be a 28mm lens,3/2/2025 23:27
+4435389,621530,agent,Pravin,pabraham@edmundoptics.in,Is it for a camera?,3/2/2025 23:28
+4435390,621530,visitor,Kenneth,,Yes a digital night vision camera it is no tube it only has a sensor,3/2/2025 23:29
+4435391,621530,agent,Pravin,pabraham@edmundoptics.in,May I know the end user and end user application?,3/2/2025 23:30
+4435392,621530,visitor,Kenneth,,my apology but I don’t understand your question are you asking what is it?,3/2/2025 23:31
+4435393,621530,agent,Pravin,pabraham@edmundoptics.in,Who will be using it and may i know the application for the lens?,3/2/2025 23:32
+4435394,621530,visitor,Kenneth,,"ok great it’s for me and I ,am not rich so I need a cost friendly solution and the it’s for my digital night vision camera you the ones you get from Amazon my lens is scratch and I need a replacement lens.",3/2/2025 23:36
+4435395,621530,agent,Pravin,pabraham@edmundoptics.in,https://www.edmundoptics.com/c/imaging-lenses/1000/#396909=396909_s%3AVIS-NIR&396909=396909_s%3ANIR,3/2/2025 23:39
+4435396,621530,agent,Pravin,pabraham@edmundoptics.in,These are closest options for the NIR range,3/2/2025 23:39
+4435397,621530,agent,Pravin,pabraham@edmundoptics.in,https://www.edmundoptics.com/c/imaging-lenses/1000/#396909=396909_s%3AVIS-NIR&396909=396909_s%3ANIR&27733=27733_d%3A%5B28.00%20TO%2028.00%5D,3/2/2025 23:40
+4435398,621530,visitor,Kenneth,,Thanks,3/2/2025 23:40
+4435399,621530,agent,Pravin,pabraham@edmundoptics.in,https://www.edmundoptics.com/c/imaging-lenses/1000/#396909=396909_s%3AVIS-NIR&27733=27733_d%3A%5B25.00%20TO%2030.00%5D&396909=396909_s%3ANIR,3/2/2025 23:40
+4435400,621530,agent,Pravin,pabraham@edmundoptics.in,You are welcome,3/2/2025 23:41
+4435401,621530,agent,Pravin,pabraham@edmundoptics.in,Is there anything else I can help you with?,3/2/2025 23:43
+4435402,621530,visitor,Kenneth,,I was just looking through the information you sent,3/2/2025 23:44
+4435403,621530,agent,Pravin,pabraham@edmundoptics.in,"It could be expensive for you, these lenses are for machine vision applications",3/2/2025 23:45
+4435404,621530,visitor,Kenneth,,I know,3/2/2025 23:45
+4435405,621530,visitor,Kenneth,,however I have a question would the glass lens work,3/2/2025 23:46
+4435406,621530,visitor,Kenneth,,I have the special tool that lets me disassemble my lens,3/2/2025 23:48
+4435407,621530,visitor,Kenneth,,could I just replace the glass lens and not the whole thing?,3/2/2025 23:48
+4435408,621530,agent,Pravin,pabraham@edmundoptics.in,"I am not sure and I think, it might work. But you might need a multiple lens.",3/2/2025 23:49
+4435409,621530,agent,Pravin,pabraham@edmundoptics.in,techsup@edmundoptics.com,3/2/2025 23:49
+4435410,621530,agent,Pravin,pabraham@edmundoptics.in,"Could you please drop an email to our team with the working distance, FOV and the object that you are capturing?",3/2/2025 23:49
+4435411,621530,agent,Pravin,pabraham@edmundoptics.in,Our team will review it and will get back to you.,3/2/2025 23:50
+4435412,621530,visitor,Kenneth,,Yes I will do that tomorrow,3/2/2025 23:50
+4435413,621530,agent,Pravin,pabraham@edmundoptics.in,Sure and Thank you.,3/2/2025 23:50
+4435414,621530,visitor,Kenneth,,have a nice day,3/2/2025 23:50
+4435415,621530,agent,Pravin,pabraham@edmundoptics.in,"If you have any further questions, please don't hesitate to chat with us again! Our Applications Engineers are available over LiveChat 24/7.
+
+Thank you for contacting Edmund Optics!",3/2/2025 23:50
+4435416,621530,visitor,Kenneth,,Goodbye,3/2/2025 23:51
+4435417,621534,agent,Mwu,mwu@edmundoptics.cn,Welcome to Edmund Optics Live Chat!,3/3/2025 1:19
